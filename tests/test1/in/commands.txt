@@ -1,0 +1,4 @@
+show
+travelled
+within 10
+show
